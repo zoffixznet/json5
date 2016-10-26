@@ -1,4 +1,5 @@
 {
+    "perl"        : "6.*",
     "name"        : "JSON5::Tiny",
     "version"     : "*",
     "description" : "A JSON::Tiny fork for JSON5",
